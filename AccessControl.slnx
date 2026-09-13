@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AccessControl.Core/AccessControl.Core.csproj" />
+  <Project Path="AccessControl.Desktop/AccessControl.Desktop.csproj" />
+</Solution>
